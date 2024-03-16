@@ -1,2 +1,2 @@
 # rafahcampos-HTTP-entendo-web-por-baixo-dos-panos
-Curso inicial Alura sobre HTTP
+Curso básiso sobre HTTP
